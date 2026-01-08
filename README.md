@@ -117,10 +117,7 @@ Day/Night color shading applied to:
 
 ---
 
-## **Screenshots**
-_(Add screenshots or GIF here if required)_
 
----
 
 ## **How to Run**
 1. Install **OpenGL + GLUT**
